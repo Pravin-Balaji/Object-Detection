@@ -8,5 +8,5 @@ Object tracking implemented with YOLOv4, DeepSort, and TensorFlow. YOLOv4 is a s
 
 ## Screenshots
 
-![App Screenshot](https://github.com/Pravin-Balaji/Object-Detection/blob/main/images/demo.gif)
+![App Screenshot](https://github.com/Pravin-Balaji/Object-Detection/blob/main/yolov4-deepsort/images/demo.gif)
 
